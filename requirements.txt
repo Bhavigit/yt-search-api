@@ -1,5 +1,14 @@
+# FastAPI web framework for building APIs
 fastapi==0.111.0
+
+# Polars: a fast DataFrame library (used here with LazyFrame and Parquet support)
 polars==0.20.21
+
+# Sentence Transformers for semantic embeddings and NLP search
 sentence-transformers==2.6.1
+
+# Scikit-learn for distance computation and ML utilities (e.g., pairwise_distances)
 scikit-learn==1.2.2
+
+# NumPy for array manipulation and numerical operations
 numpy==1.26.4
