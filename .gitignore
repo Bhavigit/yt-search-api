@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code and PyCharm settings
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Docker-related
+*.tar
+*.log
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Parquet or dataset output
+*.parquet
+
+# Model or embedding files (if not needed in repo)
+*.pt
+*.pkl
+*.h5
+*.joblib
+
+# Data cache
+__data__/
+.cache/
